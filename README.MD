@@ -2,6 +2,9 @@
 
 A terminal based web browser made for a terminal craft Hack Club ysws! You can browse the internet using just text in your terminal! However if you get bored of using the terminal you can toggle on the regular browser. Also features a productivity mode with AI that forces you to stay productive :)
 
+## Demo
+You can watch a demo here [Demo Video](https://youtu.be/eSnp-2NApZI)
+
 ## Commands
 
 - `help`: Print the list of commands.
